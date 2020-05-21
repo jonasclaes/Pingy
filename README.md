@@ -4,6 +4,8 @@ A Java software tool to monitor a connection by sending out ICMP requests.
 The software logs it to a JSON file, which has an array of objects which specify the protocol and timestamp of when the connection failed.
 The ICMP request is executed every 500ms, this will be changeable in the future.
 
+You can get the latest release [here](https://github.com/jonasclaes/Pingy/releases/download/V1.1-SNAPSHOT/Pingy-all-1.1-SNAPSHOT.jar)
+
 ## Usage
 Launch pingy using the following command.
 
